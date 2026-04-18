@@ -72,6 +72,13 @@ The system was trained and evaluated using multiple models:
 * Pandas
 * NumPy
 
+ RUNNING APP==
+ <img width="1890" height="727" alt="app1" src="https://github.com/user-attachments/assets/e0762338-5a42-4e0b-9a8f-41530f0ed899" />
+
+  <img width="1816" height="734" alt="app2" src="https://github.com/user-attachments/assets/08e4f854-76b3-44cb-b119-10ae0d0cb83f" />
+
+
+
 ---
 
 ## ▶️ Run Locally
